@@ -13,6 +13,8 @@ button {
 }
  button:hover {
  	background-color: gray;
+	width: auto;
+	height: 20px;
  }
 input {
 	width: 100px;
